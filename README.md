@@ -125,17 +125,6 @@
 
 </div>
 
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 <!-- ✅ ELEMENT 2: Let's Stay Connected -->
 ## 🌐 Let's Stay Connected:

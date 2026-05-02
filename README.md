@@ -25,92 +25,6 @@
 
 </div>
 
----
-
-## 🧬 Who Am I?
-
-```typescript
-const oussema: FullStackDeveloper = {
-  name:        "Oussema Kachti",
-  role:        "Full-Stack Developer & Engineering Student @ ESPRIT",
-  location:    "Tunisia 🇹🇳",
-  email:       "oussema.kachti@esprit.tn",
-
-  languages:   ["TypeScript", "JavaScript", "Java", "Python", "Kotlin", "PHP", "C", "Matlab"],
-
-  frontend:    ["React", "Next.js 14", "Angular", "Vue.js", "Three.js", "Tailwind CSS"],
-  backend:     ["NestJS", "Spring Boot", "Express.js", "Laravel", "Symfony", "FastAPI", ".NET"],
-  mobile:      ["React Native/Expo", "Kotlin Multiplatform (KMP)", "FlutterFlow"],
-
-  databases:   ["PostgreSQL", "MongoDB", "MySQL", "SQL Server"],
-  devops:      ["Docker", "Jenkins", "Vercel", "OVH", "Supabase"],
-
-  architecture: ["Microservices", "REST API", "MVC", "Clean Architecture", "Event-Driven"],
-  security:    ["Keycloak", "OAuth2", "JWT", "Spring Security"],
-  messaging:   ["Apache Kafka", "WebSocket", "Pusher"],
-  ai:          ["OpenAI GPT-4", "Gemini API", "Claude API", "Qdrant"],
-
-  currentFocus: "Building AI-powered SaaS & distributed systems 🤖",
-  methodology:  "Agile Scrum ⚡"
-};
-```
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Full Stack Developer @ **IAJTechnology** *(Dec 2025 – Present)*
-
-> **RFID School Attendance Management System**
-> Built a comprehensive full-stack platform with web dashboard + mobile app + multi-provider middleware (Hopeland, Zebra, Impinj, Alien) for real-time RFID attendance sync.
-> `NestJS` `React` `React Native/Expo` `PostgreSQL` `WebSocket` `JWT` `Vercel` `OVH`
-
-> **Commercial & Financial Management ERP**
-> Full-stack ERP for sales, purchasing, invoicing, inventory & payment management with production deployment.
-> `React` `Express.ts` `PostgreSQL (Supabase)` `JWT` `REST API` `Vercel` `OVH`
-
-> **SalesTracker Pro: Sales Visit CRM**
-> Full-stack CRM with KPI dashboard, appointment scheduling, analytics & Excel export.
-> `Next.js` `PostgreSQL (Supabase)` `ExcelJS` `Nodemailer/SMTP` `Tailwind CSS` `OVH`
-
-> **RFIDIA Corporate Website & Lead Generation Platform**
-> Professional multi-page website with dynamic carousels, interactive FAQ, and contact/quote flows.
-> `HTML5` `CSS3` `JavaScript` `Bootstrap` `jQuery` `Vercel` `Git/GitHub`
-
----
-
-### 📱 Mobile App Developer @ **TECHWAVE** *(Jul – Aug 2025)*
-
-> **Kotlin Multiplatform Mobile & Desktop Ecosystem** *(Confidential – Ministry of Interior)*
-> High-security Android, Web & Desktop ecosystem with encrypted Ktor communication and real-time Supabase synchronization for government-grade data integrity.
-> `Kotlin Multiplatform (KMP)` `Ktor` `Supabase` `Compose Multiplatform` `GitLab` `Agile`
-
----
-
-### 🌐 Full Stack Developer @ **DIGITRENDS** *(Feb – Jun 2024)*
-
-> **Enterprise Extranet Social Network Platform**
-> Corporate social networking platform with real-time messaging (Pusher), granular access control, automated workflows for content publishing & event management.
-> `Laravel` `Vue.js` `Pusher` `MySQL` `REST API`
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---|---|---|
-| 🏠 **SmartProperty** – AI Real Estate SaaS | React, Three.js, NestJS, FastAPI, MongoDB, GPT-4, Qdrant | Intelligent matching engine, 3D virtual tours, AVM pricing |
-| 🏨 **Luxora Booking** – Microservices Platform | React 19, Spring Boot 3, Kafka, Keycloak, Docker | 6+ microservices, API Gateway, OAuth2, event-driven |
-| 🎓 **AI Learning Module SaaS** | Next.js 14, Supabase, Gemini, Claude, GPT-4o | Multi-tenant, multi-model AI document-to-course pipeline |
-| 🎯 **Multi-Platform Club Management** | Symfony 6, JavaFX, FlutterFlow, OpenAI API | Web + Desktop + Mobile unified ecosystem |
-| 📊 **Sales Dashboard & ETL Warehouse** | Talend, Power BI, SQL Server | Multi-source ETL, data warehouse, interactive KPIs |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -189,19 +103,6 @@ const oussema: FullStackDeveloper = {
 
 </div>
 
----
-
-## 🌍 Languages
-
-<div align="center">
-
-![Arabic](https://img.shields.io/badge/Arabic-Native-1d4ed8?style=for-the-badge)
-![French](https://img.shields.io/badge/French-Fluent-2563eb?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Fluent-3b82f6?style=for-the-badge)
-
-</div>
-
----
 
 ## ✍️ Dev Quote of the Day
 

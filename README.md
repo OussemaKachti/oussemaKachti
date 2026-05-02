@@ -25,6 +25,28 @@
 
 </div>
 
+---
+
+<!-- ✅ ELEMENT 1: Hi I'm Oussema with GIF + bullet points -->
+## 👋 Hi, I'm Oussema!
+
+<img align="right" alt="Dev coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+
+🚀 *Coding like it's 2050, but debugging like it's 1999.*
+
+- 🌍 Based in **Tunis, Tunisia**
+- 🎓 Engineering Student @ **ESPRIT**
+- 💼 Currently working as **Full-Stack Developer @ IAJTechnology**
+- 🤖 Building **AI-powered SaaS** & distributed systems
+- ⚡ Exploring **Microservices, Kafka & Clean Architecture**
+- 🛡️ Into **security** with Keycloak, OAuth2 & JWT
+- 🌱 Always diving into **new tech** to stay ahead
+- 📫 Reach me: **oussema.kachti@esprit.tn**
+
+<br clear="right"/>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -103,6 +125,7 @@
 
 </div>
 
+---
 
 ## ✍️ Dev Quote of the Day
 
@@ -114,7 +137,28 @@
 
 ---
 
+<!-- ✅ ELEMENT 2: Let's Stay Connected -->
+## 🌐 Let's Stay Connected:
+
+<a href="https://linkedin.com/in/oussema-kachti">
+  <img src="https://img.shields.io/badge/LINKEDIN-JOIN%20MY%20NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:oussema.kachti@esprit.tn">
+  <img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/oussemaKachti">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+🤝
+
+---
+
+<!-- ✅ ELEMENT 3: Pixel art dev room -->
 <div align="center">
+
+<img width="80%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel dev room" />
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" />
 

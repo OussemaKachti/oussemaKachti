@@ -30,7 +30,7 @@
 <!-- ✅ ELEMENT 1: Hi I'm Oussema with GIF + bullet points -->
 ## 👋 Hi, I'm Oussema!
 
-<img align="right" alt="Dev coding" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img align="right" alt="Dev coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 🚀 *Coding like it's 2050, but debugging like it's 1999.*
 
@@ -43,19 +43,35 @@
 - 🌱 Always diving into **new tech** to stay ahead
 - 📫 Reach me: **oussema.kachti@esprit.tn**
 
-  <div align="center">
+<br clear="right"/>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussemaKachti/oussemaKachti/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oussemaKachti/oussemaKachti/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/oussemaKachti/oussemaKachti/output/github-snake.svg" />
 </picture>
-
 </div>
 
 <br clear="right"/>
 
 ---
+
+<!-- ✅ ELEMENT 2: Let's Stay Connected 
+## 🌐 Let's Stay Connected:
+
+<a href="https://linkedin.com/in/oussema-kachti">
+  <img src="https://img.shields.io/badge/LINKEDIN-JOIN%20MY%20NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:oussema.kachti@esprit.tn">
+  <img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/oussemaKachti">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+🤝
+
+ --- -->
 
 ## 🛠️ Tech Stack
 
@@ -133,29 +149,10 @@
 
 </div>
 
-
-<!-- ✅ ELEMENT 2: Let's Stay Connected -->
-## 🌐 Let's Stay Connected:
-
-<a href="https://linkedin.com/in/oussema-kachti">
-  <img src="https://img.shields.io/badge/LINKEDIN-JOIN%20MY%20NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:oussema.kachti@esprit.tn">
-  <img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/oussemaKachti">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-🤝
-
 ---
 
 <!-- ✅ ELEMENT 3: Pixel art dev room -->
 <div align="center">
-
-<img width="80%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel dev room" />
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" />
 

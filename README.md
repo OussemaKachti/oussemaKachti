@@ -30,7 +30,7 @@
 <!-- ✅ ELEMENT 1: Hi I'm Oussema with GIF + bullet points -->
 ## 👋 Hi, I'm Oussema!
 
-<img align="right" alt="Dev coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img align="right" alt="Dev coding" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 🚀 *Coding like it's 2050, but debugging like it's 1999.*
 
@@ -42,6 +42,16 @@
 - 🛡️ Into **security** with Keycloak, OAuth2 & JWT
 - 🌱 Always diving into **new tech** to stay ahead
 - 📫 Reach me: **oussema.kachti@esprit.tn**
+
+  <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussemaKachti/oussemaKachti/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oussemaKachti/oussemaKachti/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/oussemaKachti/oussemaKachti/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <br clear="right"/>
 
@@ -98,10 +108,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=oussemaKachti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussemaKachti&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemaKachti&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&layout=compact&langs_count=8" />
 
 </div>
 

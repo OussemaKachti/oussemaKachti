@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Oussema%20Kachti&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Shipping%20production%20SaaS&descAlignY=58&descColor=38bdf8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,55:1E1B4B,100:6D5EF6&height=220&section=header&text=Oussema%20Kachti&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Shipping%20production%20SaaS&descSize=20&descColor=38BDF8&descAlignY=56&animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;I+ship+production+SaaS+to+real+clients;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Spring+Boot;Multi-tenant+ERP+%C2%B7+RFID+platforms+%C2%B7+AI+products;Shipped+for+GAT+Assurances+and+Transcom" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 <a href="mailto:oussema.kachti@esprit.tn">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=OussemaKachti&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=OussemaKachti&label=Profile%20Views&color=6D5EF6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -56,7 +56,7 @@ I'm a software-engineering student at **ESPRIT** (Tunis) who likes turning real,
 
 <div align="center">
   <a href="https://portfolio-lake-ten-aenjyi3gsp.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore%20all%2012%20projects%20on%20my%20portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20all%2012%20projects%20on%20my%20portfolio-6D5EF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
@@ -116,16 +116,16 @@ I'm a software-engineering student at **ESPRIT** (Tunis) who likes turning real,
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OussemaKachti&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OussemaKachti&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OussemaKachti&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6D5EF6&icon_color=38bdf8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OussemaKachti&theme=tokyonight&hide_border=true&background=0d1117&ring=6D5EF6&fire=38bdf8&currStreakLabel=6D5EF6" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussemaKachti&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussemaKachti&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6D5EF6" />
 
 <br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKachti&bg_color=0d1117&color=38bdf8&line=0284c7&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKachti&bg_color=0d1117&color=38bdf8&line=6D5EF6&point=ffffff&area=true&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OussemaKachti/OussemaKachti/output/github-snake-dark.svg" />
@@ -136,9 +136,19 @@ I'm a software-engineering student at **ESPRIT** (Tunis) who likes turning real,
 
 ---
 
+## 🏆 Trophies
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=110&section=footer" />
+![](https://github-profile-trophy.vercel.app/?username=OussemaKachti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:6D5EF6&height=120&section=footer" />
 
 <sub>Tunisia · Open to PFE & full-stack opportunities · <a href="https://portfolio-lake-ten-aenjyi3gsp.vercel.app/">Portfolio</a></sub>
 

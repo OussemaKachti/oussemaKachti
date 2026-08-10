@@ -11,15 +11,18 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=oussemaKachti&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-  <a href="https://linkedin.com/in/oussema-kachti">
+  <img src="https://komarev.com/ghpvc/?username=OussemaKachti&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+  <a href="https://portfolio-lake-ten-aenjyi3gsp.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6D5EF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/oussema-kachti-32338936b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:oussema.kachti@esprit.tn">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/oussemaKachti">
-    <img src="https://img.shields.io/github/followers/oussemaKachti?label=Follow&style=for-the-badge&color=0ea5e9&labelColor=0d1117" />
+  <a href="https://github.com/OussemaKachti">
+    <img src="https://img.shields.io/github/followers/OussemaKachti?label=Follow&style=for-the-badge&color=0ea5e9&labelColor=0d1117" />
   </a>
 </p>
 
@@ -27,7 +30,6 @@
 
 ---
 
-<!-- ✅ ELEMENT 1: Hi I'm Oussema with GIF + bullet points -->
 ## 👋 Hi, I'm Oussema!
 
 <img align="right" alt="Dev coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -36,42 +38,34 @@
 
 - 🌍 Based in **Tunis, Tunisia**
 - 🎓 Engineering Student @ **ESPRIT**
-- 💼 Currently working as **Full-Stack Developer @ IAJTechnology**
-- 🤖 Building **AI-powered SaaS** & distributed systems
+- 💼 **Full-Stack Developer @ IAJTechnology**
+- 🤖 Building **multi-tenant SaaS**, **AI products** & **distributed systems**
 - ⚡ Exploring **Microservices, Kafka & Clean Architecture**
 - 🛡️ Into **security** with Keycloak, OAuth2 & JWT
-- 🌱 Always diving into **new tech** to stay ahead
+- 🎯 **Looking for a final-year internship (PFE)** — Europe / Remote / Tunisia
+- 🔗 Portfolio: **[oussema-kachti.vercel.app](https://oussema-kachti.vercel.app)**
 - 📫 Reach me: **oussema.kachti@esprit.tn**
-
-<br clear="right"/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussemaKachti/oussemaKachti/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oussemaKachti/oussemaKachti/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/oussemaKachti/oussemaKachti/output/github-snake.svg" />
-</picture>
-</div>
 
 <br clear="right"/>
 
 ---
 
-<!-- ✅ ELEMENT 2: Let's Stay Connected 
-## 🌐 Let's Stay Connected:
+## 🚀 Featured Projects
 
-<a href="https://linkedin.com/in/oussema-kachti">
-  <img src="https://img.shields.io/badge/LINKEDIN-JOIN%20MY%20NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:oussema.kachti@esprit.tn">
-  <img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/oussemaKachti">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-🤝
+| Project | Description | Links |
+|---|---|---|
+| 🏢 **Tagstream ERP** | Multi-tenant ERP (CRM · Finance · HR) — SSO, tenant isolation, platform switcher & pack store | [Case study](https://oussema-kachti.vercel.app/work/tagstream-business-suite) |
+| 🏠 **SmartProperty** | AI-powered real-estate SaaS — GPT-4 descriptions, ML price estimation, 3D tours | [Case study](https://oussema-kachti.vercel.app/work/smartproperty) |
+| 📡 **RFID Attendance** | School attendance — web + mobile + real-time multi-vendor middleware | [Case study](https://oussema-kachti.vercel.app/work/rfid-attendance) |
+| 💰 **Massroufi** | Personal-finance SaaS for students (React 19, Supabase) | [Case study](https://oussema-kachti.vercel.app/work/massroufi) · [Repo](https://github.com/OussemaKachti/dashboard_money_management) |
 
- --- -->
+<div align="center">
+  <a href="https://oussema-kachti.vercel.app">
+    <img src="https://img.shields.io/badge/See%20all%20projects%20on%20my%20portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -97,6 +91,7 @@
 ### ⚙️ Backend & Frameworks
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
@@ -107,6 +102,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -124,8 +120,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussemaKachti&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OussemaKachti&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OussemaKachti&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" />
 
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussemaKachti&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
 
 </div>
 
@@ -135,7 +135,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=oussemaKachti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+![](https://github-profile-trophy.vercel.app/?username=OussemaKachti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
@@ -145,17 +145,24 @@
 
 <div align="center">
 
-![Oussema's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oussemaKachti&bg_color=0d1117&color=38bdf8&line=0284c7&point=ffffff&area=true&hide_border=true)
+![Oussema's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKachti&bg_color=0d1117&color=38bdf8&line=0284c7&point=ffffff&area=true&hide_border=true)
 
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OussemaKachti/OussemaKachti/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OussemaKachti/OussemaKachti/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/OussemaKachti/OussemaKachti/output/github-snake.svg" />
+</picture>
 </div>
 
 ---
 
-<!-- ✅ ELEMENT 3: Pixel art dev room -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" />
 
-<sub>📍 Tunisia · Open to opportunities · Let's build something great together 🚀</sub>
+<sub>📍 Tunisia · 🎯 Open to PFE & Full-Stack opportunities · Let's build something great together 🚀</sub>
 
 </div>
